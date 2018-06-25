@@ -36,5 +36,6 @@ public class HomeActivity extends AppCompatActivity {
         fr=MapsFragment.newInstance();
         fragmentTransaction.replace(R.id.flaContenido,fr);
         fragmentTransaction.commit();
+
     }
 }
