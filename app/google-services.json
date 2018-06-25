@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459674772208",
+    "firebase_url": "https://food-truck-208223.firebaseio.com",
+    "project_id": "food-truck-208223",
+    "storage_bucket": "food-truck-208223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459674772208:android:8d82af416416cfa4",
+        "android_client_info": {
+          "package_name": "food.truck.solution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459674772208-ui0dhq6ih1coi5esp28qlo4161k05gll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "food.truck.solution",
+            "certificate_hash": "ff9476b7e5d1c21e716acc4cb7a6a3e48004fa41"
+          }
+        },
+        {
+          "client_id": "459674772208-uh9feliqflv7k7mrg701jj3csathkr1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZS65IDyd1yFQ9v06KJe8L3TFH-P8BQms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459674772208-uh9feliqflv7k7mrg701jj3csathkr1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

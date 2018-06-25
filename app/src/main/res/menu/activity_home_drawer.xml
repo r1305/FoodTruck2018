@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_maps"
+            android:visible="false"
+            android:title="Mapa"/>
+
+        <item
+            android:id="@+id/nav_service"
+            android:title="Activar servicio"/>
+
+        <item
+            android:id="@+id/nav_notification"
+            android:title="Notificaciones"/>
+
+        <item
+            android:id="@+id/nav_alarm"
+            android:title="Alarmas"/>
+
+        <item
+            android:id="@+id/nav_shared_users"
+            android:title="Usuarios compartidos"/>
+
+        <item
+            android:id="@+id/nav_services"
+            android:title="Mis Servicios"/>
+
+        <item
+            android:id="@+id/nav_request"
+            android:title="Solicitudes"/>
+    </group>
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Cerrar Sesión"/>
+    </group>
+</menu>
